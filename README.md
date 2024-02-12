@@ -8,4 +8,4 @@ A simple Chrome extension to flip between a GitHub repo and its GitHub Pages sit
 
 (Basically, I got sick of my students sending me one type of URL when I was asking for the other, so I made this extension)
 
-I also made [a version of GitHub URL Swapper as a Firefox Add-on](https://github.com/rahji/ghswapper_firefox)https://github.com/rahji/ghswapper_firefox
+I also made [a version of GitHub URL Swapper as a Firefox Add-on](https://github.com/rahji/ghswapper_firefox)
